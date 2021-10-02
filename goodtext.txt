@@ -4,3 +4,7 @@ I'm good, right?
 this is first edit
 
 This is second edit, only after add .
+
+This is third edit, after commit
+
+Again, only add.
